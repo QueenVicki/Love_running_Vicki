@@ -1,0 +1,32 @@
+/* Asterisk wildcard selector to overide default styles added by the browser*/
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*General style*/
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    Color: pink;
+}
+
+    /*Generic project styles*/
+    
+#home {
+        min-height: 100vh;
+    }    
+
+/*Main Content*/
+
+main {
+    background-color: #7d3146 
+    flex: 1 0 auto;
+}
+
+/*Footer*/
+footer {
+    background-color: rgb(36, 56, 97); opacity: 0.8; /*light blue*/
+}
