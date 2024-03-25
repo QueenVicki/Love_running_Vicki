@@ -14,12 +14,6 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-<<<<<<< HEAD
-=======
-    Color: pink;
-    font-family:'Lato'sans-serif
-}
->>>>>>> refs/remotes/origin/main
 
     /*Generic project styles*/
     Color: #3a3a3a;
@@ -31,6 +25,10 @@ header {
     background-color: lightcoral;
 }
     
+h1{
+    font-family: 'Oswald',sans-serif; 
+}
+
 #home {
         min-height: 100vh;
     }    
